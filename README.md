@@ -2,6 +2,8 @@ For the witches...
 
 When your code fails, the universe is trying to tell you something.
 
+![pythia banner](assets/banner.png)
+
 # pythia
 
 `pythia` replaces Python's traceback with a tarot reading. The error is still there, but now it has meaning.
