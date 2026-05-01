@@ -18,7 +18,7 @@ import pythia; pythia.enable()
 
 ## Example
 
-gimme a moment for the screenshot
+![pythia drawing The Tower for a ZeroDivisionError](assets/example.png)
 
 ## for the witches that enjoy some python magic 
 
