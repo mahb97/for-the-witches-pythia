@@ -56,3 +56,9 @@ PRs welcome, especially:
 ## License
 
 MIT
+
+## Citation for card def
+
+Card readings adapted from:
+Waite, A.E. *The Pictorial Key to the Tarot.* London: W. Rider, 1911. Illustrated by Pamela Colman Smith.
+Public domain text via [sacred-texts.com.](https://sacred-texts.com/tarot/pkt/index.htm)
